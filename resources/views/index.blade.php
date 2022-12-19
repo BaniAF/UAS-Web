@@ -9,7 +9,6 @@
 <body>
     <h1>Hallo Guys</h1>
     <h3>David Disini</h3>
-    
         <nav>
             <li>
                 <ul>
