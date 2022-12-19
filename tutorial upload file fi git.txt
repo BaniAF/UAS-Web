@@ -13,9 +13,10 @@ git remote add origin https://github.com/BaniAF/UAS-Web.git
 git branch -M main
 git push -u origin main
 
+KETIKA UPLOAD 
 git init
 git add *
-git commit -m ""
+git commit -m "(isi dengan apa yang dilakukan)"
 git branch  -M main
 git push -u origin main
 
